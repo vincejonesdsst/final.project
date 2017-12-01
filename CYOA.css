@@ -1,0 +1,24 @@
+html {
+  background-color: green;
+  font-size: 25px;
+  font-family:'Gloria Hallelujah';
+   }
+header
+{
+  color: white;
+font-size: 25px;
+font-family:'Gloria Hallelujah';
+}
+p{
+ font-size: 24px;
+ font-family:'Gloria Hallelujah';
+}
+.scary
+{
+ height: 260px;
+}
+.bold
+{
+  font-size: 30px;
+  font-style: bold;
+}
