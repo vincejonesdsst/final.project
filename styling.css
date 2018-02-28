@@ -1,0 +1,108 @@
+html {
+	font-family: verdana;
+	background-color: #030811;
+	overflow-y: hiddenw;
+}
+body {
+	margin: 0;
+	padding: 0;
+}
+a {
+	text-decoration: none;
+	color: rgb(41, 80, 142);
+}
+.no-spacing {
+	margin: 0;
+	padding: 0;
+}
+.main-banner {
+	width: 100%;
+	height: 300px;
+	background-image: url("images/newbanner.jpg");
+}
+.logo {
+	height: 200px;
+	width: 200px;
+	position: relative;
+	top: 65%;
+	left: 42%;
+}
+.navbar {
+	background-color: rgba(74, 77, 81, .4);
+	width: 100%;
+	height: 50px;
+	top: 15%;
+
+}
+.navbar-list-item {
+	display: inline-block;
+	margin-top: 12px;
+	margin-left: 45px;
+	color: rgb(41, 80, 142);
+}
+.left-list {
+	float: left;
+	position: relative;
+	left: 10%;
+}
+.right-list {
+	float: right;
+	position: relative;
+	right: 10%;
+}
+.button-container {
+	width: 100%;
+	height: 200px;
+
+}
+.button-list {
+	position: relative;
+	top: 40%;
+	text-align: center;
+}
+.button-home {
+	display: inline-block;
+}
+.button-spacing {
+	margin-right: 400px;
+}
+.button-styling {
+	background-color: rgba(74, 77, 81, .4); /* Green */
+    border: none;
+    color: rgb(41, 80, 142);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+}
+.paragraph {
+	text-align: center;
+	color: rgb(41, 80, 142);
+}
+.image-background {
+	width: 100%;
+	height: 100%;
+	background-image: url("images/OKCThunder.jpg");
+}
+.overTransparent {
+	background-color: rgba(74, 77, 81, .4);;
+	color: white;
+	width: 50%;
+	margin: auto;
+	border: 3px solid rgba(74, 77, 81, .4);
+	padding: 10px;
+}
+.centered {
+	text-align: center;
+	align-self: center;
+}
+.move-down {
+	position: relative;
+	top: 10%;
+}
+.map-div {
+	display: inline-block;
+}
+
